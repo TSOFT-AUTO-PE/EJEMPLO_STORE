@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-reporte.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-reporte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271312440734-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271313010809-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271313220163-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-nameemail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271315020291-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271315050400-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01271315060621-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281421070519-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281421100916-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281421110928-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281421120633-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281425580720-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281426020165-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281426030661-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281426040397-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281428250759-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281428290085-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281428300576-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281428310220-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281432100228-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281432130320-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281432140713-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281432150374-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281439070421-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281439100769-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281439120407-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01281439130106-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01301152520477-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01301152550245-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01301152560248-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01301152560912-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01311617530381-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01311617580414-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01311618000195-ingreso-correo-abraham-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec01311618010028-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec02061217000301-inicio-correctamente-pagina-mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec02061217030573-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec02061217040988-ingreso-correo-marisela-gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta-store/sec02061217050759-clic-boton-crear-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281027060961-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281027170218-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281027240425-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281027250216-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281027260235-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281205100776-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281205210562-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281205550319-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281205560132-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec02281206580012-tiempo-espera-excedidono-such-element-unable-locate-element-methodxpathselectorp-textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021207500189-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021207520830-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021207590344-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021208000052-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021209000852-tiempo-espera-excedidono-such-element-unable-locate-element-methodxpathselectorp-textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021218430419-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021218450920-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021218520375-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021218530070-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021219530867-tiempo-espera-excedidono-such-element-unable-locate-element-methodxpathselectorh1-textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021223040632-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021223070105-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021223130601-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021223140319-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021223140937-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021225260003-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021225290689-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021225360147-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021225360828-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021226370643-tiempo-espera-excedidono-such-element-unable-locate-element-methodxpathselectorh1-textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021228140310-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021228160791-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021228230282-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021228230939-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021229240778-tiempo-espera-excedidono-such-element-unable-locate-element-methodxpathselectordiv-textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021244410649-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021244440551-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021244510031-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021244510683-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03021244530041-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031457510603-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031457540369-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031458000842-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031458010516-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031458020760-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031501080281-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031501100712-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031501170179-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031501170833-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031501180825-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031504500539-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031504530030-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031504590472-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031505000140-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031505010123-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031511220654-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031511250608-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031511310683-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031511320337-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031511330143-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031512350572-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031512370989-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031512440080-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031512440709-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031512450494-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031516450152-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031516470748-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031516530866-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031516540542-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031516550331-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031523130020-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031523150758-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031523210842-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031523220445-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031523230230-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031528430336-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031528450738-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031528510873-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031528520478-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031528530270-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031537160255-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031537180628-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031537240767-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031537250386-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031537260219-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031538130139-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031538150780-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031538210901-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031538220540-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031538230352-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031638240672-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031638270047-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031638330147-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031638330785-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031638340579-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031641030596-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031641060144-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031641120253-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031641120892-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031641130675-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031642310353-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031642330750-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031642390836-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031642400450-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031642410253-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031644020280-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031644040671-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031644100762-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031644110375-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031644120179-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031647070459-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031647090828-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031647150938-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031647160554-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031647170446-encontro-elemento-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031650360189-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031650380705-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031650440777-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031650450419-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031658040930-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031658070502-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031658130566-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031658140191-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031658150570-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031704370785-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031704400244-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031704460346-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031704460993-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031704480856-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031741120613-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031741150202-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031741210278-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031741210919-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031741230220-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031743060447-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031743090144-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031743150188-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031743150830-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031743170150-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031746150479-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031746170883-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031746240005-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031746240653-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03031746260462-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041006430130-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041006470326-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041006530871-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041006540791-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041006570181-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041013210124-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041013250009-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041013310648-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041013320507-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041013340947-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041226490006-encontro-elemento-firstname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crear-cuenta/sec03041228260461-encontro-elemento-firstname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051008580703-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051009020222-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051009080867-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051009090778-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051009120012-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051009540056-encontro-elemento-firstname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036050854-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036080257-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036140393-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036150069-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036160406-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051036170719-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051050530804-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051050560480-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051051020626-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051051030264-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051051040662-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crearcuentaverificar-correo/sec03051051060085-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/flujo-compra/sec03051455590289-encontro-elemento-search-query.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021217030864-fallo-caso-prueba-invalid-argument-session-info-chrome79-0-3945-88build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021224070026-fallo-caso-prueba-invalid-argument-session-info-chrome79-0-3945-88build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021410370586-fallo-caso-prueba-invalid-argument-session-info-chrome79-0-3945-88build.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021423020087-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021443330067-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021544370310-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021549490440-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021554460548-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021559060472-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021605390630-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021606310954-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021610510654-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021610520952-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021612200409-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021612210686-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021631070450-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021631080787-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021631090697-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021634260862-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021634280155-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021634290113-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021640360018-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021640370962-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021640380875-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021640450467-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021642570232-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021642580538-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021642590459-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01021643050577-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022229040082-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022229050667-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022229060567-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022229180268-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022229190147-fallo-caso-prueba-invalid-element-state-session-info-chrome79-0-3945.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022233110525-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022233120840-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022233140084-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01022233230582-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030847500198-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030847520337-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030847530508-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030848010241-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030850490602-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030850510752-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030850530923-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030851010091-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030918110104-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030918130097-ingreso-usuario-sadad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030918150225-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01030918340169-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01041713030766-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01041713060211-ingreso-usuario-sadad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01041713070926-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01041713110427-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091223460819-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091223470978-ingreso-usuario-sadad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091223480611-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091223530279-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091232400789-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091233030277-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-nameusername.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091233300637-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namepassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01091234030505-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namelogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101049400747-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101049420754-ingreso-usuario-sadad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101049440530-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101049490023-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101053030555-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101102250661-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101102280265-ingreso-usuario-mecury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101102300740-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101102350267-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101537050289-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101537070765-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101537080921-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01101537150456-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01231045440301-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01231045470215-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01231045490435-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01231047320350-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01240922390517-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01240922410180-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01240922420061-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01240922480386-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281409430725-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281410040911-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-nameusername.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281410250666-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namepassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281410460415-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namelogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281413420386-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281414030536-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-nameusername.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01281414240334-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namepassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01301155490121-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01301155510116-ingreso-usuario-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01301155520081-ingreso-contrasena-mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec01301156040731-clic-boton-signin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec02261130540857-inicio-correctamente-pagina-myflight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec02261131160163-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-nameusername.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec02261131360977-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namepassword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-mercury-exitoso/sec02261131570702-fallo-caso-prueba-such-element-unable-locate-element-methodcss-selectorselector-namelogin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261408580307-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261409010260-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261409100532-ingreso-email-correcto-123hola-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261409160908-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261409180817-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261416370800-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261416400805-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261416480388-ingreso-email-correcto-123hola-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261416540585-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec02261416560319-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041007180188-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041007190471-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041008010800-encontro-elemento-email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041013560247-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041014380620-encontro-elemento-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041015590328-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041016410009-encontro-elemento-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041019500931-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041019530713-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041019590811-ingreso-email-correcto-tsoft21-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041020050747-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-store-online/sec03041020080021-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051524030795-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051524040825-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051524070264-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051524180170-encontro-elemento-h1containstext-results-have-been-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051525210607-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051525220691-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051525250260-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051525250873-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051712390869-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051712400927-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051712430192-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051712430816-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051712540751-encontro-elemento-spantextadd-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051721200384-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051721210567-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051721230959-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051721240574-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051721350476-encontro-elemento-htmlbodydivdiv2divdiv3div2ulli2divdiv2div2a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722100110-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722110219-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722130642-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722140355-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722160783-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051722270653-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051727100817-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051727110920-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051727140214-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051727140836-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051727250821-encontro-elemento-htmlbodydivdiv2divdiv3div2ulli2divdiv2div2a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734000205-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734010293-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734030639-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734040246-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734040918-tiempo-espera-excedido-javascript-error-failed-execute-elementsfrompoint-document-provided-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051734150787-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735200773-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735210838-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735240154-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735240768-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735250464-tiempo-espera-excedido-javascript-error-failed-execute-elementsfrompoint-document-provided-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051735360355-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051737240030-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051737250057-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051737270598-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051737280209-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051737390314-encontro-elemento-htmlbodydivdiv2divdiv3div2ulli2divdiv2div2a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738300069-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738310164-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738330461-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738340054-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738440723-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselector-idcenter-columnulli2divdiv1diva1img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051738550643-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742140236-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742150326-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742170674-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742180288-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742280986-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselectorimgsrchttpautomationpractice-comimgp1010-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051742390904-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746210487-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746220584-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746240959-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746250588-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746360293-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselectoratextprinted-dress-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051746470246-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749070081-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749080172-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749100336-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749100940-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749210639-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselectoratextprinted-dress-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051749320551-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808010128-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808040161-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808060459-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808070081-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808130901-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03051808240799-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061054320103-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061054340167-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061054380364-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061054390254-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061054500393-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselectoratextprinted-dress-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061055010474-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057100461-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057120379-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057150380-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057160277-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057270357-tiempo-espera-excedido-such-element-unable-locate-element-methodxpathselectora-textprinted-dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061057380470-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061103340275-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061103360398-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061103390678-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061103400634-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061103500038-encontro-elemento-htmlbodydivdiv2divdiv3div2ulli2divdiv2div2a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061104310811-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061104330707-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061104360608-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061104370441-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061104480942-encontro-elemento-htmlbodydivdiv2divdiv3div2ulli2divdiv2div2a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061108140112-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061108160033-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061108180914-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061108190799-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061109010712-encontro-elemento-adata-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061121390683-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061121410638-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061121450114-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061121450986-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061122270930-encontro-elemento-adata-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061142150400-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061142170374-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061142200466-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061142210348-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061143020700-encontro-elemento-spandata-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061143540942-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061143560876-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061144000289-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061144010122-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061144420575-encontro-elemento-adata-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061145410328-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061145430211-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061145460562-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061145470450-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061145580983-encontro-elemento-spantextadd-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061158400244-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061158420145-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061158440789-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061158450652-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061159270123-encontro-elemento-acontainsdata-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200290009-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200300077-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200360062-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200360672-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200370428-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061200480321-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061201580149-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061201590215-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061202020665-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061202030280-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061202040016-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061209250903-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061209260989-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061209290504-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061209300108-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061209320186-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061216590987-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061217010066-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061217040709-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061217050326-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061217060007-tiempo-espera-excedido-invalid-selector-unable-locate-element-with-xpath-expression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061224020027-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061224030117-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061224050851-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061224060445-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061224470534-encontro-elemento-acontains-data-product4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061226540515-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061226550611-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061226580000-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061226580613-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061227390669-encontro-elemento-spancontainstextadd-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061228370263-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061228380337-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061228400471-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061228410075-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061228520202-encontro-elemento-spancontainstext-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061230000290-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061230010375-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061230030646-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061230040261-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061230150280-encontro-elemento-spancontainstext-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061232000064-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061232010145-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061232030610-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061232040238-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061232450785-encontro-elemento-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061238170779-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061238180818-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061238210454-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061238220073-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061238240528-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061240440647-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061240450758-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061240480103-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061240480700-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061240510073-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061241010971-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242200484-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242210576-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242230916-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242240498-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242260625-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061242370527-encontro-elemento-h2containstext-product-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246030853-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246040937-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246070269-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246070873-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246100046-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061246200950-encontro-elemento-h2containstext-product-successfully-added-your.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061414500274-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061414510399-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061414540437-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061414550052-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061414570250-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061415080205-encontro-elemento-h2containstext-product-successfully-added-your.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061419440051-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061419450172-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061419490044-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061419490703-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061419520457-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061420030440-encontro-elemento-h2contains-text-product-successfully-added-your.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422080645-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422090725-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422120648-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422130275-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422150707-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061422160662-encontro-elemento-idlayer-cartdiv1div1h2text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423120171-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423130244-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423150885-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423160486-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423180812-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061423290736-encontro-elemento-idlayer-cartdiv1div1h2text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430380406-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430390520-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430420147-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430420778-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430440885-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061430550859-encontro-elemento-h2textproduct-successfully-added-your-shopping-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061432570272-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061432580359-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061433000674-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061433010311-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061433030892-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061433140834-encontro-elemento-h2containstext-product-successfully-added-your.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061439420410-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061439430489-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061439450986-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061439460612-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061439490273-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444030379-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444040441-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444060872-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444070511-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444090745-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061444100660-encontro-elemento-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061451160024-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061451170077-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061451190302-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061451190924-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061451220207-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061452030577-encontro-elemento-default-button-button-medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456020247-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456030368-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456050625-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456060246-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456080681-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061456100648-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459160962-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459180051-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459200230-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459200870-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459230635-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061459240539-encontro-elemento-htmlbodydivdiv1headerdiv3divdivdiv4div1div1h2text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503340970-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503360049-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503390327-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503390963-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503420220-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061503430151-encontro-elemento-htmlbodydivdiv1headerdiv3divdivdiv4div1div1h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061504210664-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061504220748-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061504250070-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061504250706-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061504290321-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505300738-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505310839-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505380805-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505390418-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505410895-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061505480202-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514180253-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514190369-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514220224-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514220842-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514250178-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514250863-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514270612-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514280226-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061514300488-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061518270157-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061518290845-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061520270667-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061520300187-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061522000280-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061522020929-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524110479-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524140088-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524200245-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524260224-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524280202-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524280992-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524310034-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524310641-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524340312-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524340976-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524360892-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524370468-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061524390080-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557370655-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557400179-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557460324-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557520283-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557540310-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557550053-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557570395-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061557580008-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558000296-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558020288-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558020886-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558040396-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558050006-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558060435-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558070052-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558070692-hizo-clic-terminos-condiciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558090085-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558090657-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558110127-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061558220001-encontro-elemento-h1textorder-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603170091-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603190508-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603250652-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603310610-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603330676-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603340422-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603360439-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603370056-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603390268-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603390978-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603410856-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603420440-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603430926-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603440525-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603450965-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603460560-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603470183-hizo-clic-terminos-condiciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603480729-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603490338-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603500721-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061603510565-encontro-elemento-h1containstextorder-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061606500602-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061606540510-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607000636-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607060586-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607080783-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607090515-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607130051-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607130669-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607160649-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607190262-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607190860-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607210720-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607220288-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607240125-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607240755-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607250378-hizo-clic-terminos-condiciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607270373-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607270952-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061607290749-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061608100669-encontro-elemento-button-default-button-medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061609570099-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061609590536-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610050676-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610110645-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610130701-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610140457-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610160780-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610170369-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610190989-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610220958-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610230568-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610250758-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610260337-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610270886-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610280508-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610290119-hizo-clic-terminos-condiciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610300659-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610310254-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061610320765-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061611140029-encontro-elemento-button-default-button-medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061613460558-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061613490261-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061613550407-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614010335-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614030357-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614040149-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614060351-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614060987-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614090394-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614100112-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614110875-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614120471-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614140039-hizo-clic-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614140622-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614160115-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614160710-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614170329-hizo-clic-terminos-condiciones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614180850-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614190439-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614200854-hizo-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614230580-hizo-clic-boton-order-confirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061614240194-confirma-compra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617330024-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617350486-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617410630-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617470607-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617500231-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617500980-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617550550-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617560169-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061617580806-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061643530944-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061643560729-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644020877-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644080844-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644100683-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644110441-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644130709-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644140304-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644160491-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644180374-muestra-detalle-producto-seleccionado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644200133-muestra-pagina-shopping-cart-summary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644210637-muestra-pagina-address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644230297-muestra-pagina-shipping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644240948-muestra-pagina-payment-method.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644270871-hizo-clic-boton-order-confirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061644280439-confirma-compra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061709550562-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061709570993-clic-link-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710040129-ingreso-email-correcto-tsoft120-tsoftlatam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710100090-ingreso-password-correcto-123456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710120120-clic-boton-sing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710120883-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710150466-hizo-clic-lupa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710160104-realizado-busqueda-texto-ingresado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710180266-selecciono-producto-haciendo-clic-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710200073-pagina-detalle-producto-clic-boton-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710210813-pagina-shopping-cart-summary-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710230287-pagina-address-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710240907-pagina-shipping-selecciona-terminos-condiciones-clic-boton-proceed-checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710260315-pagina-metodo-pago-selecciona-metodo-pago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710290020-pagina-confirmar-orden-clic-boton-confirm-order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/realizar-busqueda/sec03061710290578-confirmado-compra-exitosamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440270736-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440290764-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440300659-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440320626-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440370800-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021440580738-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextaltas-nuevas-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01021441190921-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextobviar-continuar-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091220430322-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091220480087-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091220490115-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091220520156-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091220570862-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091221230105-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextaltas-nuevas-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01091222030786-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextobviar-continuar-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301135530234-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301135570242-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301135580358-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301136000755-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301136070400-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301136340559-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextaltas-nuevas-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec01301136580897-fallo-caso-prueba-such-element-unable-locate-element-methodxpathselectoracontainstextobviar-continuar-session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638360713-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638410072-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638420218-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638440741-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638520533-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638530475-click-opcion-altas-nuevas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161638560959-click-boton-obviar-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639010486-elegio-tipo-documento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639020880-ingreso-numero-documento-47200648.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639030725-elegio-departamento-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639060515-elegio-pronvicia-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639080672-elegio-distrito-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639110930-click-boton-evaluar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161639120395-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161640010589-ingreso-lugar-ubicacion-arequipa-290-santa-beatriz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161640020213-click-boton-ubicar-mapa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646000811-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646060427-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646070745-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646100785-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646180618-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646190686-click-opcion-altas-nuevas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646230694-click-boton-obviar-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646280782-elegio-tipo-documento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646300226-ingreso-numero-documento-47200648.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646310288-elegio-departamento-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646330788-elegio-pronvicia-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646360586-elegio-distrito-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646400685-click-boton-evaluar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161646420022-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12161647470829-ingreso-lugar-ubicacion-arequipa-290-santa-beatriz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533190483-inicio-correctamente-pagina-movistar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533220394-ingreso-usuario-158829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533230273-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533250364-ingreso-contrasena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533300654-click-boton-iniciar-sesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533310417-click-opcion-altas-nuevas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533340045-click-boton-obviar-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533370122-elegio-tipo-documento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533370783-ingreso-numero-documento-47200648.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533380512-elegio-departamento-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533400162-elegio-pronvicia-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533420277-elegio-distrito-lima.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533440477-click-boton-evaluar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231533440804-click-boton-continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/registrar-movistar-fija/sec12231534010033-ingreso-lugar-ubicacion-arequipa-290-santa-beatriz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041039380241-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041039410872-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041039480005-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041039480620-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041039500531-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041222340285-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041222360912-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041222420992-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041222430622-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041222440962-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041227240060-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041227260635-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041227320744-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041227330380-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041227340837-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041607240328-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041607270718-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041607340008-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041607340713-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificar-correo/sec03041607360047-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051054560605-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051054590687-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051055050842-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051055060489-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051055070939-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051055090307-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057050653-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057080061-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057140170-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057140846-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057160470-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051057170775-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101340066-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101360750-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101420847-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101430517-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101440811-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051101460207-encontro-elemento-state.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103110638-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103140045-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103200202-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103200853-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103220200-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051103240870-encontro-elemento-alias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105400586-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105420982-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105490096-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105490744-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105510067-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051105580669-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051106000404-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051106110252-encontro-elemento-h1textmy-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120290276-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120320166-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120380223-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120380830-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120400346-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051120410701-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140240999-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140280804-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140350398-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140360307-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140380471-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140480144-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051140500619-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051141010768-encontro-elemento-h1textmy-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051142490200-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051142520784-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051142590394-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051143000331-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051143020444-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051143120367-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051143140811-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051143250966-encontro-elemento-h1textmy-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144120161-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144160018-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144220607-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144230483-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144250593-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144360071-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144380678-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051144490768-encontro-elemento-h1textmy-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145270879-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145310370-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145380012-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145380895-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145410281-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145540819-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145570326-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051145580167-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147020742-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147060279-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147120877-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147130791-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147240896-encontro-elemento-h1textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051147580595-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051148020200-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051148080791-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051148090641-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051148110197-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051148130252-encontro-elemento-days.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150110685-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150150731-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150220338-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150230233-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150260249-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150390836-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150420502-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051150430362-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051152100463-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051152130840-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051152200483-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051152210385-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051152320432-encontro-elemento-h1textcreate-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153070419-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153100951-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153170593-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153180471-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153200637-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051153290719-encontro-elemento-alias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154200605-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154240190-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154300844-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154310751-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154330868-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051154420944-encontro-elemento-alias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157090569-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157130119-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157190716-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157200570-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157220098-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157360287-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157380564-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051157390393-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202050823-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202090442-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202160075-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202160965-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202180987-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202330782-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202360107-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051202360959-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456180448-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456200828-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456260907-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456270557-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456290636-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456390741-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456410607-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051456420229-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500060704-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500100182-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500160269-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500160884-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500180869-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500280909-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500360205-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500360810-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051500370663-encontro-elemento-search-query.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507120218-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507140950-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507210054-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507210682-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507230041-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507330139-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507350008-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507350622-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507360314-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507380268-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051507390097-encontro-elemento-textsearch-textresults-have-been-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516160515-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516190540-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516250645-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516260275-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516270969-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516380011-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516390901-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516400527-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516410227-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516430196-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051516440037-encontro-elemento-h1textsearch-textresults-have-been-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519150787-inicio-correctamente-pagina-store-online.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519180159-clic-link-sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519240320-ingreso-email-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519240954-clic-boton-create-account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519260312-valido-correctamente-correo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519360335-ingreso-datos-personales-correctamente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519380194-clic-boton-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519380824-registro-correctamente-cuenta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519390592-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519410838-ingresado-producto-buscar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/verificarcorreo-crearcuenta/sec03051519520727-encontro-elemento-h1containstext-results-have-been-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/pageobject/myStore/PageObject_MyStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/pageobject/myStore/PageObject_MyStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/driver/chrome/79.0/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/driver/chrome/79.0/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/excel/StoreOnline.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/excel/StoreOnline.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/myStore/PageObject_MyStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/myStore/PageObject_MyStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/chrome/79.0/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driver/chrome/79.0/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/excel/StoreOnline.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/excel/StoreOnline.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resultado/Evidencia-06-03-2020_05-09-46.docx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V57SUtJ2jtO1BzZFtzF13tAaWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\web-automation-framework\src\main\resources\sikuli-img" />
+      <recent name="C:\Users\Admin\IdeaProjects\web-automation-framework\src\main\resources\driver" />
+      <recent name="C:\Users\Admin\IdeaProjects\web-automation-framework" />
+      <recent name="C:\Users\Admin\IdeaProjects\web-automation-framework\src\main\resources\template" />
+      <recent name="C:\Users\admin\IdeaProjects\web-automation-framework\src\main\resources\excel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tsoft.bot.frontend.exceptions" />
+      <recent name="exception" />
+      <recent name="com.tsoft.bot.frontend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\web-automation-framework\target\classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RunTest">
+    <configuration name="Feature: CrearCuenta" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/CrearCuenta.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.myStore" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: CrearCuenta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MyFlight" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MyFlight.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.myflight" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MyFlight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MyFlight_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MyFlight_Login.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.myflight" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MyFlight_Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MyStore" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MyStore.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.MyStore" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MyStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.frontend.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.frontend.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.frontend.runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: CrearCuenta" />
+        <item itemvalue="Cucumber java.Feature: MyStore" />
+        <item itemvalue="Cucumber java.Feature: MyFlight_Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
+      <created>1576531102772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576531102772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
